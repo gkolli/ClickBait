@@ -1,2 +1,2 @@
 # ClickBait
-Point and Click game - try to catch the square!
+Click the moving square target on the screen. User is also able to view points scored.
